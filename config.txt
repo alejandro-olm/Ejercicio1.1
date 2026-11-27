@@ -1,0 +1,10 @@
+Configuración del proyecto
+
+Nombre: Ejercicio1.1
+Rama principal: main
+Ramas de práctica: string1 y string2
+
+Reglas:
+- Guardar cada idea en un archivo de texto claro.
+- Revisar los cambios antes de integrarlos.
+- Mantener la historia del proyecto fácil de entender.

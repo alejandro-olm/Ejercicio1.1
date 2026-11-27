@@ -1,0 +1,5 @@
+Documento: Doctype
+
+Este proyecto es un pequeño ejercicio de organización.
+
+Propósito: explicar el tipo de contenido que guardamos en los archivos de texto y mantener una estructura sencilla para practicar ramas y merges.

@@ -1,0 +1,5 @@
+Archivo principal
+
+¡Hola! Este es el punto de partida del proyecto.
+
+En este ejercicio practicaremos cómo organizar documentos, crear ramas independientes y combinar cambios de forma ordenada.
